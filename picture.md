@@ -3,7 +3,7 @@
 ## Individual User Journey (Free)
 
 ```mermaid
-graph TD
+graph LR
     A[Landing Page] --> B[Click 'Start Now' for Individuals]
     B --> C[Registration/Login]
     C --> D[Email Verification]
@@ -25,7 +25,7 @@ graph TD
 ## Enterprise User Journey (Paid)
 
 ```mermaid
-graph TD
+graph LR
     A[Landing Page] --> B[Select 'Enterprise']
     B --> C[Enter Verification Code]
     C --> D[Registration Form]
