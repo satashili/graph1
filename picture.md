@@ -70,7 +70,7 @@ graph LR
 
 ```mermaid
 graph LR
-    A[ThinkBeforeClick Platform] --> B[Individual Path]
+    A[ThinkBeforeClick] --> B[Individual Path]
     A --> C[Enterprise Path]
     
     B --> D[Self-Learning<br>and Assessment]
