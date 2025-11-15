@@ -73,10 +73,10 @@ graph LR
     A[ThinkBeforeClick Platform] --> B[Individual Path]
     A --> C[Enterprise Path]
     
-    B --> D[Self-Learning<br>& Assessment]
+    B --> D[Self-Learning<br>and Assessment]
     D --> E[Personal Progress<br>Tracking]
     
-    C --> F[Employee Testing<br>& Simulation]
+    C --> F[Employee Testing<br>and Simulation]
     F --> G[Vulnerability<br>Identification]
     G --> H[Targeted<br>Education]
     H --> I[Company-Wide<br>Analytics]
